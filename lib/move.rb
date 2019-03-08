@@ -9,8 +9,8 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  input + 1 = position
-  input + 1.to_i
+  input.to_i = integer
+  integer + 1 = position
 end  
 
 def move(board, input, character)
