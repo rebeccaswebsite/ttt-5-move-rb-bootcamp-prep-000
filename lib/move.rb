@@ -10,7 +10,7 @@ end
 
 def input_to_index(input)
   puts input.to_i = integer
-  puts integer + 1 = index
+  puts "#{integer} + 1 = index"
   return index
 end  
 
