@@ -9,8 +9,7 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  puts input.to_i = Integer
-  puts "#{Integer} + 1 = index"
+  puts input.to_i + 1
   return index
 end  
 
