@@ -10,6 +10,6 @@ def input_to_index(input)
   input + 1.to_i = board[0]
 end  
 
-def move(board, input, "X")
+def move(board, input, character)
   
 end
