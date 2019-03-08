@@ -11,6 +11,7 @@ end
 def input_to_index(input)
   input.to_i = integer
   integer + 1 = index
+  index
 end  
 
 def move(board, input, character)
